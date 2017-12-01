@@ -436,7 +436,7 @@ td {
 }
 html,
 body {
-  background: url("/images/Sunshine and Snow.jpg");
+background
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -1827,7 +1827,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ffb145;
+  background: #2e214f;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2919,8 +2919,8 @@ hr {
   background: rgba(255,255,255,0.5);
 }
 .header-inner {
-  padding-left: 284px;
-  padding-right: 284px;
+  padding-left: 281px;
+  padding-right: 281px;
   padding-top: 0px;
   padding-bottom: 600px;
   background: url("/images/Napoleon Crossing the Alps.jpg");
